@@ -12,5 +12,5 @@ entries:
     name: juice-shop
     type: application
     urls:
-    - https://github.com/chkp-ccurrier/secureCodeBox/tree/main/demo-targets/juice-shop 
+    - https://github.com/chkp-ccurrier/secureCodeBox/tree/main/demo-targets/juice-shop-v3.1.0-alpha3.tgz 
     version: v13.0.3
