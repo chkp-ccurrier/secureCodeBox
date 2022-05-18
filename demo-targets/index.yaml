@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  cpappsec:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-05-18T09:49:00.09402600Z"
+    description: A Helm chart for the Secure-Box demo-targets
+    home: https://github.com/chkp-ccurrier/secureCodeBox/tree/main/demo-targets
+    keywords:
+    - juice-shop
+    - juiceshop
+    name: juice-shop
+    type: application
+    urls:
+    - https://github.com/chkp-ccurrier/secureCodeBox/tree/main/demo-targets/juice-shop 
+    version: v13.0.3
