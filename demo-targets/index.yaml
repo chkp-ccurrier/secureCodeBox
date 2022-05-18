@@ -13,4 +13,4 @@ entries:
     type: application
     urls:
     - https://raw.githubusercontent.com/chkp-ccurrier/secureCodeBox/main/demo-targets/juice-shop-v3.1.0-alpha3.tgz 
-    version: v13.0.3
+    version: v3.1.0-alpha3
